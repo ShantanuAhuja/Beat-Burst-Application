@@ -1,5 +1,5 @@
-<h1>Main Activity( App Launch First Time</h1>
-<img src="https://github.com/ShantanuAhuja/QuizGame/blob/master/images/Screenshot_20230709_163140.jpg" width="200" height="400" />
+<h1>Main Activity( App Launch First Time )</h1>
+<img src="https://github.com/ShantanuAhuja/app/src/main/res/ReadMeImages/Screenshot_20240129-124039_Package installer.jpg" width="200" height="400" />
 <h3>Here, the app starts. When it starts for the first time, it asks for the storage and media permissions</h3>
 </br>
 </br>
