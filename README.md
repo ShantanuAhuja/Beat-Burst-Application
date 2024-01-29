@@ -1,5 +1,5 @@
 <h1>Main Activity( App Launch First Time )</h1>
-<img src="https://github.com/ShantanuAhuja/Beat-Burst-Application/blob/master/app/src/main/res/ReadMeImages/Screenshot_20240129-124039_Package%20installer.jpg" width="200" height="400" />
+<img src="https://github.com/ShantanuAhuja/Beat-Burst-Application/blob/master/app/src/main/res/ReadMeImages/Screenshot_20240129-124039_Package%20installer.jpg" width="300" height="400" />
 <h3>Here, the app starts. When it starts for the first time, it asks for the storage and media permissions</h3>
 </br>
 </br>
